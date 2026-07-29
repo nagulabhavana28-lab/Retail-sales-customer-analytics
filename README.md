@@ -56,7 +56,7 @@ Power BI Dashboard
 
 ### Trends & Forecast
 
-![Trends & Forecast](screenshots/trends_forecast.png)
+![Trends & Forecast](screenshots/trends_Forecast.png)
 ## 📈 Key Results
 
   Metric                                     Value
